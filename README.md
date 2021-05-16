@@ -25,7 +25,7 @@ For those completely new to C# and dotnet, please see these detailed instruction
 * 
 
 ### License
-* Copyright 2021 :copyright:  Shannon Lee, Salim Mayan, Cat Denton, Tyler Sinks
+* Copyright 2021 :copyright:  Saoud Rana, Salim Mayan, Collin Chapman, Theron Packus
 * [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/saoud/csharp-TDD-template/blob/main/LICENSE)
 
 ### Contact
